@@ -38,7 +38,7 @@ h4 {
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
-    color: #828282;
+    color: rgb(239, 240, 240);
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -51,7 +51,7 @@ h4 {
 .post h2 a,
 .post h2 a:visited {
     color: #F11BB1;
-    background-color: #cdcfcf;
+    background-color: rgb(239, 240, 240);
 }
 
 .post > .date,
@@ -67,7 +67,7 @@ h4 {
 }
 
 .btn-secondary:hover {
-    color: #828282;
+    color: rgb(239, 240, 240);
     background-color: #00c278;
 }
 body {
